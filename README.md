@@ -6,7 +6,7 @@
 - 🏫  Full Stack Developer
 - 🏢  PT Garasilabs Manivesta
 - 💻  PHP, Javascript, Ruby, dan C
-- 🎨  Ngoding / Gaming / Hacking
+- 🎨  Coding / Gaming / Hacking
 
 ### My Contact:
 
@@ -18,6 +18,12 @@
 [<img align="left" alt="afifjusuf.id | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
+
+---
+
+# Latest Youtube Videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://afifjusuf.id
 [twitter]: https://twitter.com/bungambohlah
