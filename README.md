@@ -34,9 +34,13 @@
 
 <img align="left" alt="Apep's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&hide_border=true">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungambohlah)]
+
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungambohlah)](https://github.com/bungambohlah/github-readme-stats)
+[![Apep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah)]
+
+---
 
 [website]: https://afifjusuf.id
 [twitter]: https://twitter.com/bungambohlah
