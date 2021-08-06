@@ -22,8 +22,8 @@
 ---
 
 # Latest Youtube Videos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [website]: https://afifjusuf.id
 [twitter]: https://twitter.com/bungambohlah
