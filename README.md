@@ -25,6 +25,14 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="Apep's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&hide_border=true">
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungambohlah)](https://github.com/bungambohlah/github-readme-stats)
+
 [website]: https://afifjusuf.id
 [twitter]: https://twitter.com/bungambohlah
 [youtube]: https://www.youtube.com/channel/UCgXeikUYtBItdbE1_Lw9y1w
