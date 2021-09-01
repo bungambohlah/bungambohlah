@@ -2,7 +2,7 @@
 
 ### I'm a developer, husband, and strong man 😃 ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 
-- 🌏  Surabaya, Jawa Timur
+- 🌏  Surabaya, Jawa Timur, Indonesia
 - 🏫  Full Stack Developer
 - 🏢  PT Garasilabs Manivesta
 - 💻  PHP, Javascript, Ruby, dan C
