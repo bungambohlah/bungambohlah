@@ -23,9 +23,9 @@
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Interview Kerja Ketkom 2 | Afif Abdillah Jusuf (2103177020) | Revanzah Putra (2103177012)](https://www.youtube.com/watch?v=0UTG6FYHPDM)
-- [Interview Kerja Ketkom 1 | Afif Abdillah Jusuf (2103177020) | Revanzah Putra (2103177012)](https://www.youtube.com/watch?v=IqvhSDPRk8I)
-- [Afif Abdillah Jusuf - 2103177020 | Video Presentasi Percaya Diri (NRP Genap)](https://www.youtube.com/watch?v=8XHhRPu9hB0)
+- [Interview Kerja Ketkom 2 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=0UTG6FYHPDM)
+- [Interview Kerja Ketkom 1 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=IqvhSDPRk8I)
+- [Afif Abdillah Jusuf - 2103177020 | Video Presentasi Percaya Diri &lpar;NRP Genap&rpar;](https://www.youtube.com/watch?v=8XHhRPu9hB0)
 - [Afif Abdillah Jusuf - 2103170020 | Video Promosi Kampus PENS](https://www.youtube.com/watch?v=D3H-4G_LtM8)
 - [Presentasi Keamanan Jaringan module 8 Sniffing](https://www.youtube.com/watch?v=ss3SQWdalWs)
 <!-- YOUTUBE:END -->
