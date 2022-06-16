@@ -44,5 +44,5 @@
 [twitter]: https://twitter.com/bungambohlah
 [youtube]: https://www.youtube.com/channel/UCgXeikUYtBItdbE1_Lw9y1w
 [instagram]: https://instagram.com/afif.abdillah.j
-[linkedin]: https://www.linkedin.com/in/afif-abdillah-9404a0142
+[linkedin]: https://www.linkedin.com/in/afifjusuf
 [facebook]: https://fb.me/rudrafentje.samasamagila
