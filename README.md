@@ -40,7 +40,7 @@
 
 ---
 
-[website]: https://afifjusuf.id
+[website]: https://afif.dev
 [twitter]: https://twitter.com/bungambohlah
 [youtube]: https://www.youtube.com/channel/UCgXeikUYtBItdbE1_Lw9y1w
 [instagram]: https://instagram.com/afif.abdillah.j
