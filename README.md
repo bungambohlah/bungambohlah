@@ -1,4 +1,4 @@
-### Hello there 👋, my name is Afif Abdillah Jusuf, call me Apep 😎 ヽ(´ー｀)ﾉ [afifjusuf.id][website] 
+### Hello there 👋, my name is Afif Abdillah Jusuf, call me Apep 😎 ヽ(´ー｀)ﾉ [afif.dev][website] 
 
 ### I'm a developer, husband, and strong man 😃 ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
 
