@@ -32,6 +32,8 @@
 
 ---
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep  github stats" />
+
 ![Apep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&hide_border=true)
 
 ![Apep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&layout=compact)
