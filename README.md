@@ -32,13 +32,14 @@
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep  github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
 
-![Apep's GitHub stats](https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&hide_border=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
 
-![Apep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungambohlah&layout=compact)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
 
 ---
 
