@@ -1,23 +1,40 @@
-### Hello there 👋, my name is Afif Abdillah Jusuf, call me Apep 😎 ヽ(´ー｀)ﾉ [afif.dev][website] 
+### Hi there 👋, my name is Afif Abdillah Jusuf
+#### I'm a full stack developer, husband, and strong man 😃💪
 
-### I'm a developer, husband, and strong man 😃 ( ﾟ∀ﾟ)ｱﾊﾊ八八ﾉヽﾉヽﾉヽﾉ ＼ / ＼/ ＼
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Afif%20Abdillah%20Jusuf&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=52&descAlign=67&descSize=35" />
 
-- 🌏  Surabaya, Jawa Timur, Indonesia
-- 🏫  Full Stack Developer
-- 🏢  PT Garasilabs Manivesta
-- 💻  PHP, Javascript, Ruby, dan C
-- 🎨  Coding / Gaming / Hacking
+Experienced Developer with a demonstrated history of working in the computer software industry. Skilled in PostgreSQL, Node.js, PHP, JavaScript, and MongoDB. Strong engineering professional with a Associate's degree focused in Informatics Engineering from Politeknik Elektronik Negeri Surabaya. 
 
-### My Contact:
+Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP / RUBY
 
-[<img align="left" alt="afifjusuf.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="afifjusuf.id | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="afifjusuf.id | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="afifjusuf.id | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="afifjusuf.id | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="afifjusuf.id | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+- 🔭 I’m currently working on PT. Garasilabs Manivesta 
+- 🌱 I’m currently learning Typescript, Deno, Golang, and Python 
+- 👯 I’m looking to collaborate on Web Development, visit [my polywork](https://polywork.afif.dev) 
+- 🤔 I’m looking for help with Python Machine Learning 
+- 💬 Ask me about Anything 🤷‍♂️ 
+- 📫 How to reach me: visit personal site [afif.dev](https://afif.dev) 
+- 😄 Pronouns: he/him/his 
+- ⚡ Fun fact: I'm omnivert 😁 if you know me well. 
 
-<br />
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/afifjusuf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rudrafentje.samasamagila)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/afif.abdillah.j/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9099598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCgXeikUYtBItdbE1_Lw9y1w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/bungambohlah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afif.dev)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bungambohlah)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bungambohlah)  
+
+![GitHub metrics](https://metrics.lecoq.io/bungambohlah)  
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
 
 ---
 
@@ -32,20 +49,4 @@
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
-
----
-
-[website]: https://afif.dev
-[twitter]: https://twitter.com/bungambohlah
-[youtube]: https://www.youtube.com/channel/UCgXeikUYtBItdbE1_Lw9y1w
-[instagram]: https://instagram.com/afif.abdillah.j
-[linkedin]: https://www.linkedin.com/in/afifjusuf
-[facebook]: https://fb.me/rudrafentje.samasamagila
+![Profile views](https://gpvc.arturio.dev/bungambohlah)  
