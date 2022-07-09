@@ -1496,7 +1496,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typestack/class-validator</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Decorator-based property validation for classes.</div>
@@ -2546,7 +2546,7 @@ The solution is simple,
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jul 2022, 05:16:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 10 Jul 2022, 06:15:41 (timezone Asia/Jakarta) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
