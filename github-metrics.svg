@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>readysettech/readyset</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.</div>
@@ -2559,7 +2559,7 @@ The solution is simple,
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 19:35:42 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 20:46:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
