@@ -49,4 +49,5 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/bungambohlah)  
+![Profile views](https://gpvc.arturio.dev/bungambohlah)
+[![wakatime](https://wakatime.com/badge/user/6326d1b5-a2ef-4c94-8c56-85a743f57115.svg)](https://wakatime.com/@6326d1b5-a2ef-4c94-8c56-85a743f57115)
