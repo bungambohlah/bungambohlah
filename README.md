@@ -21,12 +21,6 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bungambohlah)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bungambohlah)  
-
-![Metrics](/github-metrics.svg)
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
@@ -46,6 +40,11 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 - [Interview Kerja Ketkom 2 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=0UTG6FYHPDM)
 - [Interview Kerja Ketkom 1 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=IqvhSDPRk8I)
 <!-- YOUTUBE:END -->
+
+---
+
+# My Holopin Badges Board
+[![@bungambohlah's Holopin board](https://holopin.io/api/user/board?user=bungambohlah)](https://holopin.io/@bungambohlah)
 
 ---
 
