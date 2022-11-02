@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            321 Commits
+                            325 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    803k added, 247k removed
+                                    639k added, 243k removed
                                 </div>
                             </section>
                             <section>
@@ -1756,6 +1756,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">bungambohlah/ar-wedding</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d24c458</div>
+                                        <div class="message">chore: <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEyElEQVR4nO1aS2hjVRi+Cjo7wZXgYsAWxwpuxAdYEVy5GgcX40ZcuBldunHlbgSxqGUYhhGm4NQBxbEqimCoFPTec07uzcskzc19JU36SB9pJ5lMOmnahrG/fNcRam/SRqYx7fV+8G3C+c8933fuf85/zo0kBQgQIECAAAF2o1AonLQsa9SyrIRpmguWZZWOI03TnDNNM+o4zofFYvERqRvYtv2uaZpN0zSpWCxSqVSixcXFY0mMvVAokGEY4LplWW/tKz6Xy72HxnNzc9RsNqnVavmCjUbDnUzDMHYcxznXVrzjOEOGYbTm5+dpe3u774M+bELT7Ows4e1Gireb/auWZflq5vcS2pDatm1f9hhgmuYcZr/fg+w1kd6WZeU8BhiGsb2ystL3Afaay8vLbhq0M4DK5XLfB9hrQiMWw8CAvTCCN8AIUqAcrAHlvi9SwSLYCnYBCrbB1hGvA+obW3R+cpFeuKDTUx+l6fSYTT/p1a4Hca/xU/ZNNwax6OP9nxeo1tj6bwzY2m7R2fEcnfpkhgYuVWngcp0GL5ZpaCRL36Zu9Dz+m9QNty1iEIs+0Bf6RN89N+BzbZVOfezQY5/d/gcHL1XoudGsO7u9ir/V2HLboO3eePQ5HlntvQHnrhdo8MKSZwDgEyMm8XytZ/FKrua2aReLPt++XvC3ASzfQwOy2SzhOIybk/04ppY7vsLPjmbpVmOzZ/G125v0zKd6xxT4IrJ64PihMZvNeg3QdZ2WlpZoc3NzX9YbTTozZnsWsSdHsnQtutbz+HHtr7Z7F8HXx3O00dw/FoRGXde9BmQyGfcmFddGB7G2vkHnJ0s0jG1sJE2vjtk0ZVa6ij2M+F/MCp2+Yruxwxez9MFkye2zm1hozGQyXgPS6TQtLCy4N6h+JjSm02mvAalUyr0vW19f9zWhMZVKeQ1IJpPutXG9Xvc1oTGZTHoNSCQS7seDWq3ma0JjIpHwGhCPx2lmZoaq1aqvCY3xeNxrQCwWo3w+T5VKxdeExlgs5jUgEomQ4zi0trbma0JjJBLxGqBpGr6YuKWinwmNmqZ5DVBV1f1uhlLRz4RGVVW9BgghdnAgQqnoZ0KjEOKOxwDO+U1Ug/hTgZ+Jgk8IUW73BvyKNMAXYpSLfiSqwHA4DAN+bGfAG7Is46TkNvQjMfvQGA6HX/EYAHDOpxRF8Z0JKH+np6dd8Zzzr6ROyOfzDzHGfkNDbItYE7BooHjo9mG5XA4XDq6JR4E44wghXPGMse9CodAJaT8Q0f1CiHcYY78rivIHAkGYcZB4POzv9keFiqK0OOecMXZW+rdIJBIPRCKRx4UQ19CZbdsdxWN/vfvAK6qqPq2q6lC/KYQ4iQmV7hUTExMPwknkUScDsIMwxpxDeeBRA+f8YaRDJwOQ83dX1zclP0JV1dc6pQCOl4wxrK5RIrpP8iOEEF9CJLaT3eLxN1SssIqiVDnnA5IfIYR4VFGUTdwY7RaPYyXEM8Yamqa9KPkVjLExFEd41SEcV0pYC/CbLMuLqqo+L/kVqqoOy7J8JxqNugUR9nmkgizLO4yxH3Rd7+4v6McVjLGv9xQVG4qifC+EeEn6PyAUCp3gnL+sadoZvOoojPo9pgABAgQIECCAdFj4E4e/96Byg2bHAAAAAElFTkSuQmCC" height="16" width="16" alt="" /> change link from afifjusuf.id to afif.dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">bungambohlah/ar-wedding</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#823a09f</div>
+                                        <div class="message">chore: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update link youtube with handle</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">bungambohlah/bungambohlah</span>
                                     </div>
                                 </div>
@@ -1764,46 +1804,6 @@
                                     <div class="commit">
                                         <div class="sha">#bb9890f</div>
                                         <div class="message">docs: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update youtube link with handle</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bungambohlah/dicoding-bookshelf-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6a336f3</div>
-                                        <div class="message">ci: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> fix CI build to upgrade node from 14 to 16 for support prisma</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">bungambohlah/dicoding-bookshelf-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f1e6ca0</div>
-                                        <div class="message">build: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> upgrade package lock</div>
                                     </div>
                                 </div>
                             </section>
@@ -2209,7 +2209,7 @@ The solution is simple,
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.58291457286433 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="103.5929648241206 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2231,10 +2231,10 @@ The solution is simple,
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">125</div>
+                                        <div class="value">134</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 125 times</div>
+                                <div class="text">Repositories have been deployed 134 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2546,7 +2546,7 @@ Skilled in PostgreSQL, Node.js, PHP, JavaScript, and MongoDB. Strong engineering
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2022, 08:24:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 2 Nov 2022, 08:55:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
