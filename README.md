@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Afif Abdillah Jusuf
+### Hi there <img src="https://raw.githubusercontent.com/bungambohlah/bungambohlah/master/wave.gif" width="30" height="30" />, my name is Afif Abdillah Jusuf
 #### I'm a full stack developer, husband, and strong man 😃💪
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Afif%20Abdillah%20Jusuf&fontSize=70&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=52&descAlign=67&descSize=35" />
