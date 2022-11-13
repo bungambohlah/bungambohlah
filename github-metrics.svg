@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 107 users
+                            Followed by 108 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    651k added, 243k removed
+                                    476k added, 8.68k removed
                                 </div>
                             </section>
                             <section>
@@ -1776,11 +1776,11 @@
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#62cc7f8</div>
-                                        <div class="message">build: <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" height="16" width="16" alt="" /> update webpack config for compile tailwind pseudo class</div>
+                                        <div class="message">build: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update webpack config for compile tailwind pseudo class</div>
                                     </div>
                                     <div class="commit">
                                         <div class="sha">#c4a946b</div>
-                                        <div class="message">build: <img class="gemoji" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" height="16" width="16" alt="" /> add some dependencies package for render and UI necessaries</div>
+                                        <div class="message">build: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> add some dependencies package for render and UI necessaries</div>
                                     </div>
                                 </div>
                             </section>
@@ -2224,7 +2224,7 @@ The solution is simple,
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.56281407035175 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.34170854271356 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2261,12 +2261,12 @@ The solution is simple,
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 71.3k out of 102m users</span>
+                                    <span class="gh">ranked 70.5k out of 102m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">107</div>
+                                        <div class="value">108</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 107 users</div>
+                                <div class="text">Followed by 108 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2523,7 +2523,7 @@ Skilled in PostgreSQL, Node.js, PHP, JavaScript, and MongoDB. Strong engineering
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 13:22:02 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 14:16:31 (timezone Asia/Jakarta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
