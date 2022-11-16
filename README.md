@@ -34,11 +34,11 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Rust &lpar;actix&rpar; vs Golang &lpar;gin + concurrency&rpar;](https://www.youtube.com/watch?v=smd9YgklcXw)
 - [Discuss About Recycling Rate for Selected Materials | Learn How to Speak English](https://www.youtube.com/watch?v=Pb3M0gr90cs)
 - [Discussion About Internet | Learn How to Speak English](https://www.youtube.com/watch?v=xxAWgTvZ-6s)
 - [Praktek Memasak Makanan Tumis Kangkung](https://www.youtube.com/watch?v=DiWK8MUTIuU)
 - [Interview Kerja Ketkom 2 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=0UTG6FYHPDM)
-- [Interview Kerja Ketkom 1 | Afif Abdillah Jusuf &lpar;2103177020&rpar; | Revanzah Putra &lpar;2103177012&rpar;](https://www.youtube.com/watch?v=IqvhSDPRk8I)
 <!-- YOUTUBE:END -->
 
 ---
