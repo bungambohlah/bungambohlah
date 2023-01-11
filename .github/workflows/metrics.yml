@@ -65,7 +65,7 @@ jobs:
           plugin_projects_limit: 4
           plugin_repositories: no
           plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
+          plugin_sponsors_sections: goal, list
           plugin_sponsors_size: 24
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
