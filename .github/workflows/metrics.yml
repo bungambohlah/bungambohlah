@@ -35,35 +35,35 @@ jobs:
           commits_authoring: bungambohlah
           config_octicon: yes
           config_timezone: Asia/Jakarta
-          config_twemoji: yes
+          config_twemoji: no
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_archived: yes
+          plugin_followup: no
+          plugin_followup_archived: no
           plugin_followup_sections: repositories
           plugin_gists: yes
-          plugin_isocalendar: yes
+          plugin_isocalendar: no
           plugin_isocalendar_duration: half-year
-          plugin_lines: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_pwa: yes
+          plugin_lines: no
+          plugin_pagespeed: no
+          plugin_pagespeed_detailed: no
+          plugin_pagespeed_pwa: no
           plugin_pagespeed_url: afifjusuf.dev
           plugin_posts: yes
           plugin_posts_limit: 4
           plugin_posts_source: dev.to
           plugin_posts_user: bungambohlah
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_limit: 4
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           plugin_sponsors_size: 24
@@ -73,10 +73,10 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 9099598
-          plugin_stars: yes
+          plugin_stars: no
           plugin_stars_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_attachments: yes
+          plugin_tweets: no
+          plugin_tweets_attachments: no
           plugin_tweets_limit: 2
           plugin_tweets_user: bungambohlah
-          repositories_forks: yes
+          repositories_forks: no
