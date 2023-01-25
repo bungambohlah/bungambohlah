@@ -7,8 +7,8 @@ Experienced Developer with a demonstrated history of working in the computer sof
 
 Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP / RUBY
 
-- 🔭 I’m currently working on PT. Garasilabs Manivesta 
-- 🌱 I’m currently learning Typescript, Deno, Golang, and Python 
+- 🔭 I’m currently working at Cargo Community Network Pte, Ltd. 
+- 🌱 I’m currently learning Typescript, Rust, Golang, and Python 
 - 👯 I’m looking to collaborate on Web Development, visit [my polywork](https://polywork.afif.dev) 
 - 🤔 I’m looking for help with Python Machine Learning 
 - 💬 Ask me about Anything 🤷‍♂️ 
