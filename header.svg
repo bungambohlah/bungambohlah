@@ -64,8 +64,8 @@
       <stop offset="0.499497" stop-color="#144272" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="paint1_linear_211_2" x1="403" y1="-344.5" x2="403.267" y2="409" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FAFAFA" stop-opacity="0.5"/>
-      <stop offset="0.653793" stop-color="#FAFAFA" stop-opacity="0"/>
+      <stop stop-color="#0008C1" stop-opacity="0.5"/>
+      <stop offset="0.653793" stop-color="#0008C1" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="clip0_211_2">
       <rect width="850" height="300" rx="20" fill="white"/>
