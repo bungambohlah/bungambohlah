@@ -1,5 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/bungambohlah/bungambohlah/master/wave.gif" width="30" height="30" />, my name is Afif Abdillah Jusuf
-#### I'm a full stack developer, husband, and strong man 😃💪
+### Hi there <img src="https://raw.githubusercontent.com/bungambohlah/bungambohlah/master/wave.gif" width="30" height="30" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header.svg">
