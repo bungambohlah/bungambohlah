@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="header.svg" />
-  <img alt="Stiven Trizky Katuuk" src="/Images/dark_github.svg" width="100%" />
+  <img alt="Afif Abdillah Jusuf" src="/Images/dark_github.svg" width="100%" />
 </picture>
 
 <!--
