@@ -30,7 +30,7 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
 
