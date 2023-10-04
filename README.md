@@ -41,11 +41,11 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 # Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Grafika Komputer &lpar;Pengolahan Citra&rpar; | Cara Membuat Huruf 3D dengan file OFF dan bahasa C++](https://www.youtube.com/watch?v=nrasAu9Mq4Q)
 - [Demo Rekayasa Perangkat Lunak PENS | Kelompok 1  - Sistem Informasi Pendataan Alumni PJJ](https://www.youtube.com/watch?v=SmGJkQ8IejY)
 - [Sniff Outlook website with Bettercap](https://www.youtube.com/watch?v=Z9FtEOpeOSE)
 - [2103177020 Post Test DB 2019 - Microsoft Access](https://www.youtube.com/watch?v=dpNbz7UCvaw)
 - [Live Stream Afif Abdillah Jusuf](https://www.youtube.com/watch?v=fsyxa_lFIuQ)
-- [Rust &lpar;actix&rpar; vs Golang &lpar;gin + concurrency&rpar;](https://www.youtube.com/watch?v=smd9YgklcXw)
 <!-- YOUTUBE:END -->
 
 ---
