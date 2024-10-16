@@ -37,6 +37,10 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
 
+<img align="center" src="https://codeium.com/profile/loftily-prophetic-woodcock-15340/card.png" alt="Apep's Codeium" />
+
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+
 ---
 
 # Latest Youtube Videos
