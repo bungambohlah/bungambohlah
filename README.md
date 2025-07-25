@@ -19,7 +19,7 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 - 👯 I’m looking to collaborate on Web Development, visit [my polywork](https://polywork.afif.dev) 
 - 🤔 I’m looking for help with Python Machine Learning 
 - 💬 Ask me about Anything 🤷‍♂️ 
-- 📫 How to reach me: visit personal site [afif.dev](https://afif.dev) 
+- 📫 How to reach me: visit personal site [afifcodes.dev](https://afifcodes.dev) 
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: I'm omnivert 😁 if you know me well. 
 
