@@ -30,16 +30,12 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bungambohlah&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Apep's github streak stats" />
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
+<img align="center" src="https://github-readme-stats-extended.vercel.app/api?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Apep's github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's wakatime stats" />
 
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
-
-<img align="center" src="https://codeium.com/profile/loftily-prophetic-woodcock-15340/card.png" alt="Apep's Codeium" />
-
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
+<img align="center" src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=bungambohlah&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true&layout=compact" alt="Apep's top program languages" />
 
 ---
 
@@ -59,5 +55,4 @@ Skills: REACT / JS / TS / HTML / CSS / NODEJS / SQL / NOSQL / GO / PYTHON / PHP 
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/bungambohlah)
 [![wakatime](https://wakatime.com/badge/user/6326d1b5-a2ef-4c94-8c56-85a743f57115.svg)](https://wakatime.com/@6326d1b5-a2ef-4c94-8c56-85a743f57115)
